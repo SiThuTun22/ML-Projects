@@ -13,3 +13,7 @@ This repository contains a collection of machine learning projects that I have w
   - Vectorizing text using TF-IDF
   - Training the RandomForestClassifier
   - Evaluating the model with precision, recall, and F1-score
+
+2. [HarmFul Detection](#HarmFulDetection)
+### Harmful Detection
+   
