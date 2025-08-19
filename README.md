@@ -15,5 +15,7 @@ This repository contains a collection of machine learning projects that I have w
   - Evaluating the model with precision, recall, and F1-score
 
 2. [HarmFul Detection](#HarmFulDetection)
+3. [Face Mask Detection](#FaceMaskDetection)
 ### Harmful Detection
+### Face Mask Detection
    
